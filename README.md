@@ -25,7 +25,7 @@ _août 2014 à juin 2019_
  - **Technologies utilisées**: React, ElectronJS, CSS 
 
 ### Stationnement intelligent \[[github](https://github.com/Gaspard-Savoureux/projet_iot_MSME)\] <br>
- - **Description:** Stationnement intelligent modèle ayant la capacité de reconnaître les plaques d'immatriculation des véhicules fonctionnant avec une base de données MongoDB.
+ - **Description:** Stationnement intelligent modèle ayant la capacité de reconnaître les plaques d'immatriculation des véhicules et fonctionnant avec une base de données MongoDB.
  - **Technologies utilisées**: Python, pytesseract, Raspberry Pi, MongoDB
 
 ### Gobo job planning
