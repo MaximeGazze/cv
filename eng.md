@@ -3,7 +3,7 @@
 Student at Collège de Maisonneuve in the computer science technical program. <br>
 Member of the [LRIMa](https://lrima.cmaisonneuve.qc.ca/) research laboratory.
 
-Email: maxime.gazze@videotron.ca)
+Email: maxime.gazze@videotron.ca) <br>
 Github: https://github.com/MaximeGazze
 
 ## Academic background
